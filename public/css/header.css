@@ -1,0 +1,31 @@
+#header-wp{ border-bottom: 1px solid #F00;}
+.list-item li{ float: left;}
+.list-item li a{
+    display: block;
+    padding: 20px;
+    color: #000;
+    font-size: 14px;
+}
+.list-item li:first-child a{ padding-left: 0!important;}
+#action-user #login, #action-user #reg{
+    display: inline-block;
+    padding: 20px;
+    font-size: 14px;
+    color: #272727;
+}
+.signed .fullname{
+    font-size: 14px;
+    display: block;
+    padding: 15px 0px 5px 0px;
+}
+.signed .fullname span{
+    font-family: 'Roboto Medium';
+    font-weight: normal;
+}
+#logout{
+    display: inline-block;
+    font-size: 13px;
+    color: #b50000;
+    font-family: 'Roboto Medium';
+    font-weight: normal;
+}

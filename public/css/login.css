@@ -1,0 +1,14 @@
+#title-remember{
+    display: inline-block;
+    margin: 0px 0px 0px 10px;
+    cursor: pointer;
+}
+#forgot-pass{ display: inline-block; margin-top: 15px; color: #005077;}
+#mess-error-query{
+    font-size: 14px;
+    color: #F00;
+    margin-top: 20px;
+    margin-left: 30px;
+    font-style: italic;
+}
+.wrap-checkbox{ margin-top: 10px;}

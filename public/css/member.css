@@ -1,0 +1,26 @@
+/*MEMBER*/
+.member-page .title-page{
+    display: block;
+    font-size: 21px;
+    padding: 50px 0px 25px 0px;
+}
+#list-member table thead{ background: #008200; color: #fff; text-transform: uppercase;}
+#list-member table tr td{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+ul.pagging{
+    margin-top: 20px;
+}
+ul.pagging li{
+    float: left;
+}
+ul.pagging li a{
+    display: block;
+    padding: 5px 8px;
+    font-size: 20px;
+}
+ul.pagging li.active a{
+    color: red;
+}

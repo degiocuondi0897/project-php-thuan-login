@@ -1,0 +1,5 @@
+.reset-pass-page .title-page, .home-page .title-page, .pending-page .title-page, .active-page .title-page{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 100px;
+}

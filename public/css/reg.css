@@ -1,0 +1,31 @@
+.reg-page .title-page, .login-page .title-page, .forgot-pass-page #title-page, .reset-pass-page #title-page{
+    display: block;
+    font-size: 21px;
+    padding: 50px 0px 25px 0px;
+}
+label{ display: block; margin: 20px 0px 10px 0px; cursor: pointer;}
+input[type="text"], input[type="email"], input[type="password"]{
+    display: inline-block;
+    padding: 12px 15px;
+    width: 300px;
+    border-radius: 5px;
+    border: 1px solid #b9b9b9;
+}
+input[type="submit"]{
+    display: inline-block;
+    padding: 15px 0px;
+    margin-top: 25px;
+    width: 300px;
+    border-radius: 5px; 
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    color: #fff;
+    background: #3B5998;
+    cursor: pointer;
+}
+input[type="submit"]:hover{ background: #1c3b7b;}
+.reg-page input[type="submit"]{ margin-bottom: 75px;}
+.notice{
+    color: #F00;
+}

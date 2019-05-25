@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto Regular';
+    font-size: 14px;
+    color: #000;
+}
+.wp-inner{
+    width: 1170px;
+    margin: 0 auto;
+}
+.fl-left{ float: left;}
+.fl-right{ float: right;}
+.mess-error{
+    font-size: 13px;
+    color: #F00;
+    margin-top: 10px;
+    font-style: italic;
+}
